@@ -1,0 +1,77 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link rel="stylesheet" href="styles.css">  
+    <title>Modi Ji</title>  
+    <style>
+        body {  
+            background-color: #00ffcc;  
+            font-family: Arial, sans-serif;  
+            color: #000;  
+        }  
+
+        .container {  
+            text-align: left;  
+            padding: 20px;  
+            border: 10px solid #00cc99;  
+            margin: 20px;  
+            background-color: #ccffcc;  
+        }  
+
+        h1 {  
+            font-size: 2.5em;  
+            text-align: center;  
+            text-shadow: 2px 2px #fff;  
+        }  
+
+        .image-container {  
+            text-align: center; /* Center the image */  
+            margin: 20px 0; /* Space above and below the image */  
+        }  
+
+        .profile-pic {  
+            width: 200px; /* Larger size for the image */  
+            height: auto; /* Maintain aspect ratio */  
+        }  
+
+        p {  
+            font-size: 1.2em;  
+            line-height: 1.5;  
+        }  
+
+        footer {  
+            margin-top: 20px;  
+            text-align: center;  
+        }  
+
+        footer a {  
+            font-weight: bold;  
+            color: #007acc;  
+            text-decoration: none;  
+        }  
+
+        footer a:hover {  
+            text-decoration: underline;  
+        }
+    </style>
+</head>  
+<body>  
+    <div class="container">  
+        <h1>Narendra Modi</h1>  
+        <div class="image-container">  
+            <img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcT53O5O4bgQzBUFcXZzAzFEMpsA9OBJUZGqEReEun1ydUn7eJSP_uTnouonZ_-a3E7Ek96eymQfdZKmZSs" alt="Modi Ji" class="profile-pic">  
+        </div>  
+        <p>☞ Narendra Modi has been the Prime Minister of India since 2014, leading various initiatives to reform and develop the nation.</p>  
+        <p>☞ He played a crucial role in India's economic growth and implementing policies aimed at transforming infrastructure and improving public services.</p>  
+        <p>☞ Under his leadership, the Make in India initiative was launched to encourage companies to manufacture in India.</p>  
+        <p>☞ Modi is also known for his emphasis on clean energy and sustainable development through initiatives like Swachh Bharat Abhiyan and Solar Energy Mission.</p>  
+        <p>☞ Strengthened India's global relationships and influence through strategic partnerships and international platforms like the G20.</p>  
+        <p>☞ Initiated the Digital India campaign to enhance online services, connectivity, and IT infrastructure.</p>  
+        <footer>  
+            <a href="https://en.wikipedia.org/wiki/Narendra_Modi" target="_blank">Click here for additional information about Narendra Modi</a>  
+        </footer>  
+    </div>  
+</body>  
+</html>
